@@ -1,0 +1,7 @@
+D:\Personal Projects\RomanToNumericalConverter\RomanToNumericConverter\RomanToNumericConverter.MSTest\bin\Debug\RomanToNumericConverter.MSTest.dll
+D:\Personal Projects\RomanToNumericalConverter\RomanToNumericConverter\RomanToNumericConverter.MSTest\bin\Debug\RomanToNumericConverter.MSTest.pdb
+D:\Personal Projects\RomanToNumericalConverter\RomanToNumericConverter\RomanToNumericConverter.MSTest\bin\Debug\RomanToNumericConverter.exe
+D:\Personal Projects\RomanToNumericalConverter\RomanToNumericConverter\RomanToNumericConverter.MSTest\bin\Debug\RomanToNumericConverter.pdb
+D:\Personal Projects\RomanToNumericalConverter\RomanToNumericConverter\RomanToNumericConverter.MSTest\obj\Debug\RomanToNumericConverter.MSTest.csprojResolveAssemblyReference.cache
+D:\Personal Projects\RomanToNumericalConverter\RomanToNumericConverter\RomanToNumericConverter.MSTest\obj\Debug\RomanToNumericConverter.MSTest.dll
+D:\Personal Projects\RomanToNumericalConverter\RomanToNumericConverter\RomanToNumericConverter.MSTest\obj\Debug\RomanToNumericConverter.MSTest.pdb

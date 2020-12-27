@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToNumericConverter", "RomanToNumericConverter\RomanToNumericConverter.csproj", "{BDBBF456-ABF8-4A5C-8EE8-760751127741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToNumericConverter.MSTest", "RomanToNumericConverter.MSTest\RomanToNumericConverter.MSTest.csproj", "{15921F47-3FDC-4A65-9145-B9AE01D8B55A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E6295332-C26B-4D5D-BB5A-CCEB576FF043}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		RomanToNumericConverter.vsmdi = RomanToNumericConverter.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = RomanToNumericConverter.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDBBF456-ABF8-4A5C-8EE8-760751127741}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{BDBBF456-ABF8-4A5C-8EE8-760751127741}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{BDBBF456-ABF8-4A5C-8EE8-760751127741}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{BDBBF456-ABF8-4A5C-8EE8-760751127741}.Debug|x86.ActiveCfg = Debug|x86
+		{BDBBF456-ABF8-4A5C-8EE8-760751127741}.Debug|x86.Build.0 = Debug|x86
+		{BDBBF456-ABF8-4A5C-8EE8-760751127741}.Release|Any CPU.ActiveCfg = Release|x86
+		{BDBBF456-ABF8-4A5C-8EE8-760751127741}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{BDBBF456-ABF8-4A5C-8EE8-760751127741}.Release|Mixed Platforms.Build.0 = Release|x86
+		{BDBBF456-ABF8-4A5C-8EE8-760751127741}.Release|x86.ActiveCfg = Release|x86
+		{BDBBF456-ABF8-4A5C-8EE8-760751127741}.Release|x86.Build.0 = Release|x86
+		{15921F47-3FDC-4A65-9145-B9AE01D8B55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15921F47-3FDC-4A65-9145-B9AE01D8B55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15921F47-3FDC-4A65-9145-B9AE01D8B55A}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{15921F47-3FDC-4A65-9145-B9AE01D8B55A}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{15921F47-3FDC-4A65-9145-B9AE01D8B55A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{15921F47-3FDC-4A65-9145-B9AE01D8B55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15921F47-3FDC-4A65-9145-B9AE01D8B55A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15921F47-3FDC-4A65-9145-B9AE01D8B55A}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{15921F47-3FDC-4A65-9145-B9AE01D8B55A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{15921F47-3FDC-4A65-9145-B9AE01D8B55A}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
